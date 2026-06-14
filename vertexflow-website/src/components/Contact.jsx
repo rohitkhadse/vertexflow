@@ -10,7 +10,7 @@ function Contact() {
       <div className="contact-box">
         <p><strong>Email:</strong> info@vertexflowdynamics.com</p>
         <p><strong>Business:</strong> business@vertexflowdynamics.com</p>
-        <p><strong>Location:</strong> Nagpur, Maharashtra, India</p>
+        <p><strong>Location:</strong> Jalgaon, Maharashtra, India</p>
       </div>
     </section>
   );

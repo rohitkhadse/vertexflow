@@ -2,6 +2,7 @@ function Hero() {
   return (
     <section id="home" className="hero">
       <div className="hero-content">
+        
         <p className="eyebrow">
           CFD • Process Safety • Risk Engineering
         </p>
